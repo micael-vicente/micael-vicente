@@ -27,7 +27,7 @@ Currently building an e-commerce platform, applying what I've learned so far:
 
 ## 💬 Let's Connect!  
 🔗 [LinkedIn](https://www.linkedin.com/in/micael-vicente-9230328a)  
-
+📧 [micaelvicente@gmail.com](mailto:micaelvicente@gmail.com)  
 
 <!--
 **micael-vicente/micael-vicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
