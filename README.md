@@ -29,6 +29,12 @@ Currently building an e-commerce platform, applying what I've learned so far:
 🔗 [LinkedIn](https://www.linkedin.com/in/micael-vicente-9230328a)  
 📧 [micaelvicente@gmail.com](mailto:micaelvicente@gmail.com)  
 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micael-vicente&theme=dracula&layout=compact" />
+</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=micael-vicente" /> </p>  
+
+
 <!--
 **micael-vicente/micael-vicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
